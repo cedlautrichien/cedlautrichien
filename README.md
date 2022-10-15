@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedlautrichien
 - 👀 I’m interested in quality assurance and business analysis
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on IT projects as a tester
 
 <!---
